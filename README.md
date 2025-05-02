@@ -1,1 +1,1 @@
-Coolest projects Hungary 2025 tavasz.
+Coolest Projects Hungary 2025 tavasz.
