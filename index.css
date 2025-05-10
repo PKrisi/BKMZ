@@ -30,6 +30,10 @@ header {
     background-color: #fff;
     min-height: 100vh;
 }
+img {
+  margin: 0;
+  padding: 0px 0px;
+}
 .button {
     appearance: none;
     background-color: #fafbfc;
